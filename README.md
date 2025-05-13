@@ -190,21 +190,4 @@ Run the full demonstration (including database creation, checks, reporting, aler
 python your_script.py
 ```
 
----
 
-## License
-
-This project is provided as-is for educational and internal use. Extend and adapt as needed for your data quality needs.
-
----
-
-## Acknowledgements
-
-Developed with inspiration from best practices in data engineering and data quality monitoring. Contributions welcome!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/67498674/171b829b-cce6-419e-a676-d4702272b556/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/67498674/171b829b-cce6-419e-a676-d4702272b556/paste.txt
-
----
-Answer from Perplexity: pplx.ai/share
